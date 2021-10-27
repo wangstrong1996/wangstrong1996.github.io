@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{index.html}
+= Qiang Shen (沈强) ~~~ [https://faculty.sjtu.edu.cn/shenqiang/zh_CN/index.htm \[中文主页\]] \n 
+
+~~~
+{}{img_left}{SQ_profile.png}{Not Available}{WIDTHpx}{300}{index.html}
+[http://www.aero.sjtu.edu.cn/Data/View/3759 Qiang Shen (沈强)], Ph.D. \n
+\[[https://scholar.google.com/citations?user=n58EbV4AAAAJ&hl=en  Google Scholar], 
+[https://www.researchgate.net/profile/Qiang_Shen8  Researchgate]\] \n
+Associate Professor, \n
+School of Aeronautics and Astronautics, \n
+Shanghai Jiao Tong University \n
+
+== Contact
+Email: [qiangshen@sjtu.edu.cn]; [qiang.shen@hotmail.com]\n
+Office Address: Room A239, Aerospace Building, 800 Dongchuan Road, Shanghai, China
+~~~
+
+== Prospective Researchers/Students
+We are looking for Postdoctoral Researchers, Ph.D. and master students who are interested in the following areas. Please feel free to contact me if you are interested. 
+- Attitude Determination and Control, Formation Flying, Intention-Aware Autonomous Systems
+- Fault Diagnosis and Tolerant Control, Learning-Aided Control Synthesis, Complex Mission Planning
+- Constrained Control, Lyapunov-Based Controller Design, Control Allocation
+\n
+{{<font color=red size=+0.5><b>}}课题组长期招收博士后、博士生、硕士生以及有意科研的本科生，欢迎有兴趣的同学联系我。{{</b></font>}}
+
+
+== What's New!
+- July 2021: Two conference papers on constrained attitude control and formation flying with stochastic communication link failures are accepted by the 5th International Conference on Aerospace System Science and Engineering (ICASSE 2021).
+- Feburary 2021: One conference paper on discrete-time control barrier functions is accepted by the European Control Conference (ECC).
+- Feburary 2021: One conference paper on tube-based output feedback MPC is accepted by the 7th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS). 
+- December 2020: One journal paper on equalized recovery state estimator of linear systems subject to delayed observations is accepted by the IEEE Control Systems Letters (LCSS) and to be presented at American Conference Conference (ACC).
+- December 2020: One conference paper on controller and estimator synthesis subject to delayed and missing data is accepted by the 24th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2021).
+- December 2020: One journal paper on constrained attitude control using adaptive control allocation is accepted by the IEEE Control Systems Letters (LCSS) and to be presented at the American Conference Conference (ACC).
+- November 2020: One journal paper on piecewise affine abstraction with polytopic partitions is accepted by the IEEE Control Systems Letters (LCSS) and to be presented at the American Conference Conference (ACC).
+- June 2020: One journal paper on incremental abstraction of nonlinear systems is accepted by the IEEE Control Systems Letters (LCSS) and to be presented at the IEEE Conference on Control and Decision (CDC). 
+- April 2020: The code for mesh-based affine abstraction of nonlinear systems with tighter bounds (i.e., [https://ieeexplore.ieee.org/abstract/document/8618714 CDC-18 paper]) is uploaded on GitHub. You can find the [Papers/Conf_Singh2018CDC.pdf paper] and [https://github.com/icetl-ASU/MeshBasedAbstraction code] on the Publications page. 
+- April 2020: One journal paper on enhancing the fatigue performance of damaged metallic structures is accepted by Materials & Design, where I helped with the Maltab simulation verifying the experimental results.
+- April 2020: The code for the active fault-tolerant control design of a rigid body under actuator fault (i.e., [https://doi.org/10.1109/TIE.2018.2854602 TIE-19 paper]) is uploaded on GitHub. You can find the [Papers/Shen2018TIE.pdf paper] and [https://github.com/qiangs/AFTC_Attitude_Control code] on the Publications page.  
+- February 2020: One journal paper on fault modeling of momentum exchange devices is accepted by the Journal of The Franklin Institute. 
+- February 2020: One journal paper on attitude control using two parallel control moment gyros (CMGs) is accepted by the IEEE Transactions on Aerospace and Electronic Systems. 
+- February 2020: One journal paper on fault-tolerant control accommodating control moment gyro (CMG) fault is accepted by the IEEE Transactions on Control Systems Technology.   
+- January 2020: One conference paper on closed-loop active model discrimination will appear at the ECC 2020 in Saint Petersburg, Russia, May 12‑15, 2020. 
+- December 2019: I will be joining the School of Aeronautics and Astronautics at Shanghai Jiao Tong University as an Associate Professor.
+- October 2019: One journal paper on fault-tolerant attitude control with prescribed performance is accepted by the Journal of The Franklin Institute.
+- June 2019: One conference paper on model discrimination of uncertain nonlinear functions will appear at the CDC 2019 in Nice, France.
+- April 2019: One conference paper, DS-VIO: Robust and Efficient Stereo Visual Inertial Odometry Based on Dual Stage EKF, will appear at the IEEE RCAR 2019 in Irkutsk, Russia.
+- February 2019: Three conference papers, one on safe autonomous overtaking with intention estimation, one on partition-based parametric active model discrimination, and one on reliable control system design for SGCMG, will appear at the ECC 2019 in Naples, Italy. 
+- January 2019: Two conference papers, one on affine abstraction of uncertain affine systems and one on bounded-error estimator design with intermediate data measurement, will appear at the ACC 2019 in Philadelphia, PA, USA.
+- January 2019: One journal paper on underactuated attitude control using two parallel CMGs is accepted by the Journal of Guidance, Control, and Dynamics.
+- July 2018: A conference paper on affine abstraction of nonlinear systems will appear at the CDC 2018 in Miami, FL, USA.
+
+\n
+
+~~~
+{}{raw}
+<script type="text/javascript" src="//ri.revolvermaps.com/0/0/4.js?i=80btzoc7tvm&amp;m=0&amp;h=148&amp;c=0006ff&amp;r=30" async="async"></script>
+~~~
+
+~~~
+Please feel free to [qiang.shen@hotmail.com contact me] should you be interested in my research.
+~~~
+
