@@ -1,1 +1,173 @@
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Shizhuang Wang &ndash; Publications</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">AboutMe</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="biography.html">Biography</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html" class="current">Publications</a></div>
+<div class="menu-item"><a href="projects.html">Projects</a></div>
+<div class="menu-item"><a href="activity.html">Professional&nbsp;Activities</a></div>
+<div class="menu-category">Miscellaneous</div>
+<div class="menu-item"><a href="usefulinks.html">UsefuLinks</a></div>
+<div class="menu-item"><a href="photos.html">Photos</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Shizhuang Wang &ndash; Publications</h1>
+</div>
+ 
+<h2>What's New !</h2>
+
+<ol>
+
+<li><p>	<b>Wang, S.</b>, Zhan, X., Zhai, Y., and Gao, Z., &ldquo;<i><a href="https://www.ion.org/itm/abstracts.cfm?paperID=11765">Solution Separation Based Integrity Monitoring for Integer Ambiguity Resolution Enabled GNSS Positioning</a></i>,&rdquo; ION ITM 2023.
+&nbsp;<a href="/Publications/ITM2023.pdf">[<b>PDF</b>]</a> <a href="/Publications/ITM2023_Presentation.pdf">[<b>PowerPoint</b>]</a> <a href="https://youtu.be/qwLNZ-Frjf4">[<b>Video</b>]</a> <br /></p>
+</li>
+   
+</ol>
+  
+<h2>Journal Papers</h2>
+
+<ol>
+    
+<li><p>	<b>Wang, S.</b>, Zhan, X*., Zhai Y., Zheng, L., and Liu, B., &ldquo;<i><a href="https://doi.org/10.1016/j.ast.2022.107631">Enhancing Navigation Integrity for Urban Air Mobility with Redundant Inertial Sensors</a></i>,&rdquo; Aerospace Science and Technology (SCI, Q1, IF: 5.1), 2022.
+&nbsp;<a href="/Publications/01_Enhancing navigation integrity for Urban Air Mobility with redundant inertial sensors.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	<b>Wang, S.</b>, Zhai, Y., and Zhan, X.,* &ldquo;<i><a href="https://doi.org/10.1002/navi.409">Characterizing Beidou Signal-In-Space Range Errors from Integrity Perspective</a></i>,&rdquo; NAVIGATION: Journal of the Institute of Navigation (SCI, Q2, IF: 2.1), 2021, 68 (1): 157-183.
+&nbsp;<a href="/Publications/02_Characterizing Beidou Signal-In-Space Range Errors from Integrity Perspective.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	<b>Wang, S.</b>, Zhan, X*., Zhai, Y., et al., &ldquo;<i><a href="https://doi.org/10.1016/j.cja.2020.05.022">Highly Reliable Relative Navigation for Multi-UAV Formation Flight in Urban Environments</a></i>,&rdquo; Chinese Journal of Aeronautics (SCI, Q1, IF: 2.8), 2021, 34 (7): 257-270.
+&nbsp;<a href="/Publications/03_Highly Reliable Relative Navigation for Multi-UAV formation flight in urban environments.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	<b>Wang, S.</b>, Zhan, X*., Zhai, Y., Shen, J., and Wang, H., &ldquo;<i><a href="https://doi.org/10.1016/j.ast.2021.106628">Performance Estimation for Kalman Filter based Multi-Agent Cooperative Navigation by Employing Graph Theory</a></i>,&rdquo; Aerospace Science and Technology (SCI, Q1, IF: 5.1), 2021, 112 (106628): 1-16.
+&nbsp;<a href="/Publications/04_Performance estimation for Kalman filter based multi-agent cooperative navigation by employing graph theory.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	<b>Wang, S.</b>, Zhan, X*., Zhai, Y., and Liu, B., &ldquo;<i><a href="https://doi.org/10.3390/s20030590">Fault Detection and Exclusion for Tightly Coupled GNSS/INS System Considering GNSS Ramp Faults and IMU Faults</a></i>,&rdquo; Sensors (SCI, Q2, IF: 3.6), 2020, 20 (3): 590.
+&nbsp;<a href="/Publications/05_Fault Detection and Exclusion for Tightly Coupled GNSSINS System Considering Fault in State Prediction.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	<b>Wang, S.</b>, Zhan, X*., Zhai, Y., and Fu, Y., &ldquo;<i><a href="https://link.springer.com/article/10.1007/s42401-020-00057-8">Feature-Based Visual Navigation Integrity Monitoring for Urban Autonomous Platforms</a></i>,&rdquo; Aerospace Systems (EI), 2020, 3: 167-179.
+&nbsp;<a href="/Publications/07_Feature-Based Visual Navigation Integrity Monitoring for Urban Autonomous Platforms.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	<b>Wang, S.</b>, Zhan, X*., Zhai, Y., et al., &ldquo;<i><a href="https://doi.org/10.6125/JoAAA.202012_52(4).07">Ensuring High Navigation Integrity for Urban Air Mobility Using Tightly Coupled GNSS/INS System</a></i>,&rdquo; Journal of Aeronautics, Astronautics and Aviation (EI), 2020, 52 (4): 429-442.
+&nbsp;<a href="/Publications/08_Ensuring High Navigation Integrity for Urban Air Mobility Using Tightly Coupled GNSSINS System.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	<b>Wang, S.</b>, Zhan, X*., and Pan, W., &ldquo;<i><a href="https://doi.org/10.6125/JoAAA.201803_50(1).06">GNSS/INS Tightly Coupling System Integrity Monitoring by Robust Estimation</a></i>,&rdquo; Journal of Aeronautics, Astronautics and Aviation (EI), 2018, 50 (1): 61-80.
+&nbsp;<a href="/Publications/09_GNSSINS Tightly Coupling System Integrity Monitoring by Robust Estimation.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	<b>Wang, S.</b>, Zhan, X*., Zhang, X., and Mei, H., &ldquo;<i><a href="http://en.cnki.com.cn/Article_en/CJFDTotal-IKJS201805009.htm">Research on Airborne ARAIM Algorithm Testing Technology Based on UAV Platform</a></i>,&rdquo; Measurement and Control Technology (in Chinese), 2018, 37 (5): 24-28.
+&nbsp;<a href="/Publications/10_Research on Airborne ARAIM Algorithm Testing Technology Based on UAV Platform.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	<b>Wang, S.</b>, Zhai, Y., and Zhan, X.,* &ldquo;<i><a href="">Implementation of Solution Separation based Kalman Filter Integrity Monitoring Against All-Source Faults for Multi-Sensor Integrated Navigation</a></i>,&rdquo; GPS Solutions (SCI, Q2, IF: 4.1), Under review.
+&nbsp;<a href="/Publications/">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+
+<li><p>	<b>Wang, S.</b>, Zhai, Y., Chi, C., Zhan, X., and Jiang, Y., &ldquo;<i><a href="">Implementation and Analysis of Fault Grouping for Multi-Constellation Advanced RAIM</a></i>,&rdquo; Advances in Space Research (SCI, Q2, IF: 2.2), Under review.
+&nbsp;<a href="/Publications/">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+  <li><p>	Fu, Y., <b>Wang, S</b>., Zhai, Y., Zhan, X., and Zhang, X.,* &ldquo;<i><a href="https://doi.org/10.33012/navi.542">Measurement Error Detection for Stereo Visual Odometry Integrity</a></i>,&rdquo; NAVIGATION: Journal of the Institute of Navigation (SCI, Q2, IF: 2.1), 2022. (My contributions: advice, and review).
+&nbsp;<a href="/Publications/13_Measurement Error Detection for Stereo Visual Odometry Integrity.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+  <li><p>	Shen, J., <b>Wang, S.</b>, and Zhan, X.,* &ldquo;<i><a href="https://doi.org/10.1016/j.ast.2022.107570">Multi-UAV Cluster-based Cooperative Navigation with Fault Detection and Exclusion Capability</a></i>,&rdquo; Aerospace Science and Technology (SCI, Q1, IF: 5.1), 2022. (My contributions: idea, advice, and review)
+  &nbsp;<a href="/Publications/14_Multi-UAV Cluster-based Cooperative Navigation with Fault Detection and Exclusion Capability.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+  <li><p>	Wang, H., <b>Wang, S.</b>, Zhan, X*., and Shen, J., &ldquo;<i><a href="https://doi.org/10.1016/j.ast.2022.107491">Offline Optimization of Sensor Configuration and Integration Architecture for Efficient Cooperative Navigation</a></i>,&rdquo; Aerospace Science and Technology (SCI, Q1, IF:5.1), 2022. (My contributions: idea, advice, and review)
+  &nbsp;<a href="/Publications/15_Offline optimization of sensor configuration and integration architecture for efficient cooperative navigation.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	Shen, J., <b>Wang, S.</b>, Zhai, Y., and Zhan, X.* &ldquo;<i><a href="https://doi.org/10.1049/rsn2.12023">Cooperative Relative Navigation for Multi‐UAV Systems by Exploiting GNSS and Peer‐to‐Peer Ranging Measurements</a></i>,&rdquo; IET Radar, Sonar & Navigation (SCI, Q3, IF: 5.1), 2022. (My contributions: idea, advice, and review)
+    &nbsp;<a href="/Publications/16_Cooperative Relative Navigation for Multi‐UAV Systems by Exploiting GNSS and Peer‐to‐Peer Ranging Measurements.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+  <li><p>	Fu, Y., <b>Wang, S.</b>, Zhai, Y., and Zhan, X.* &ldquo;<i><a href="https://link.springer.com/article/10.1007/s42401-020-00062-x">Visual Odometry Errors and Fault Distinction for Integrity Monitoring</a></i>,&rdquo; Aerospace Systems (EI), 2020, 3: 265-274. (My contributions: advice and review)
+    &nbsp;<a href="/Publications/17_Visual Odometry Errors and Fault Distinction for Integrity Monitoring.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+  <li><p>	Liu, X., Zhan, X*., <b>Wang, S.</b>, and Zhai, Y., &ldquo;<i><a href="https://doi.org/10.6125/JoAAA.202012_52(4).05">Measurement-Domain Cooperative Navigation for Multi-UAV Systems Augmented by Relative Positions</a></i>,&rdquo; Journal of Aeronautics, Astronautics and Aviation (EI), 2020, 52(4): 403-416. (My contributions: idea, advice, and review)
+
+&nbsp;<a href="/Publications/18_Measurement-Domain Cooperative Navigation for Multi-UAV Systems Augmented by Relative Positions.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	Chang, J., Zhan, X*., Zhai, Y., <b>Wang, S.</b>, and Yang, R., &ldquo;<i><a href="https://link.springer.com/article/10.1007/s10291-022-01294-4">Multipath and NLOS Detection and Exclusion Based on Doppler Aided Solution Separation</a></i>,&rdquo; GPS Solutions (SCI, Q2, IF: 4.1), 2022.
+&nbsp;<a href="/Publications/19_Vector angle grouping-based solution separation for multipathNLOS detection and exclusion with the enhancement of doppler test.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	Liu, B*., Gao Y., Gao, Y., and <b>Wang, S</b>., &ldquo;<i><a href="https://link.springer.com/article/10.1007/s10291-021-01220-0">HPL Calculation Improvement for Chi-squared Residual?6?2based ARAIM</a></i>,&rdquo; GPS Solutions (SCI, Q2, IF: 4.1), 2022, 26-45.
+&nbsp;<a href="/Publications/20_HPL calculation improvement for Chi‑squared residual‑based ARAIM.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+  <li><p>	Zheng, L., Zhan, X*., Zhang, X., <b>Wang, S</b>., and Yuan, W., &ldquo;<i><a href="https://doi.org/10.1109/JSEN.2020.2985025">Heading Estimation for Multi-Mode Pedestrian Dead Reckoning</a></i>,&rdquo; IEEE Sensors Journal (SCI, Q2, IF: 3.3), 2020, 20 (15): 8731-8739.
+&nbsp;<a href="/Publications/21_Heading Estimation for Multimode Pedestrian Dead Reckoning.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+  <li><p>	Pan, W., Zhan, X*., Zhang, X., and <b>Wang, S</b>., &ldquo;<i><a href="https://doi.org/10.3390/s19224847">A Subset-Reduced Method for FDE ARAIM of Tightly-Coupled GNSS/INS</a></i>,&rdquo; Sensors (SCI, Q2, IF: 3.6), 2019, 19 (22): 4847.
+&nbsp;<a href="/Publications/22_A Subset-Reduced Method for FDE ARAIM of Tightly-Coupled GNSSINS.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+  <li><p>	Chi, C., Zhan, X*., <b>Wang, S</b>., and Zhai, Y., &ldquo;<i><a href="https://doi:10.1017/aer.2020.80">Enabling robust and accurate navigation for UAVs using real-time GNSS precise point positioning and IMU integration</a></i>,&rdquo; The Aeronautical Journal (SCI, Q3, IF: 0.8), 2020, 125 (1283): 87-108.
+&nbsp;<a href="/Publications/23_Enabling robust and accurate navigation for UAVs using real-time GNSS precise point positioning and IMU integration.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+<li><p>	Chang, J., Zhan, X*., Zhai, Y. <b>Wang, S</b>., and Lin, K., &ldquo;<i><a href="https://link.springer.com/article/10.1007/s42401-020-00074-7">Analysis of BDS GEO Satellite Multipath Effect for GNSS Integrity Monitoring in Civil Aviation</a></i>,&rdquo; Aerospace Systems (EI), 2021, 4: 133-141.
+&nbsp;<a href="/Publications/24_Analysis of BDS GEO Satellite Multipath Effect for GNSS Integrity Monitoring in Civil Aviation.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+
+</ol>
+  
+<h2>Conference Papers</h2>
+<ol>
+
+  <li><p>	<b>Wang, S.</b>, Zhan, X., Zhai, Y., and Gao, Z., &ldquo;<i><a href="https://www.ion.org/itm/abstracts.cfm?paperID=11765">Solution Separation Based Integrity Monitoring for Integer Ambiguity Resolution Enabled GNSS Positioning</a></i>,&rdquo; ION ITM 2023.
+&nbsp;<a href="/Publications/ITM2023.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+  
+  <li><p>	<b>Wang, S.</b>, Zhan, X*, Xiao, Y., and Zhai, Y., &ldquo;<i><a href="https://link.springer.com/chapter/10.1007/978-981-19-2580-1_27">Integrity Monitoring of PPP-RTK based on Multiple Hypothesis Solution Separation</a></i>,&rdquo; China Satellite Navigation Conference 2022 (EI conference), Best Student Paper Award.
+&nbsp;<a href="/Publications/06_Integrity Monitoring of PPP-RTK based on Multiple Hypothesis Solution Separation.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+  
+    <li><p>	Zhai, Y., Fu, Y., <b>Wang, S</b>., and Zhan, X., &ldquo;<i><a href="https://link.springer.com/chapter/10.1007/978-981-16-3142-9_49">Mechanism Analysis and Mitigation of Visual Navigation System Vulnerability</a></i>,&rdquo; China Satellite Navigation Conference 2021 (EI), Best Paper Award.
+&nbsp;<a href="/Publications/25_Mechanism Analysis and Mitigation of Visual Navigation System Vulnerability.pdf">[<b>PDF</b>]</a> <br /></p>
+</li>
+  
+  
+</ol>
+  
+  
+<div class="infoblock">
+<div class="blockcontent">
+<p>Please feel free to <a href="mailto:sz.wang@sjtu.edu.cn">contact me</a> should you be interested in my research.</p>
+</div></div>
+<div id="footer">
+<div id="footer-text">
+Page generated 2022-12-16 16:36:43, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
